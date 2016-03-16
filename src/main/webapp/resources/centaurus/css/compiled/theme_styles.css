@@ -7210,7 +7210,7 @@ a:focus,
 .pagination > li > a:active,
 .pagination > li > span:active {
   color: #2ecc71;
-}
+} 
 .pagination > .active > a,
 .pagination > .active > span,
 .pagination > .active > a:hover,
@@ -7227,7 +7227,7 @@ a:focus,
 .notifications-list .item-footer a:hover {
   background-color: #0f1114;
 }
-.btn-primary,
+.btn-primary, 
 .btn-default,
 .btn-info,
 .btn-success,
