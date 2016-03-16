@@ -6,7 +6,7 @@
 	<c:import url="header.html"></c:import>
 	<body>
 		<div id="theme-wrapper">
-			<c:import url="nav_headbar.jsp"></c:import>
+			<c:import url="nav_head.jsp"></c:import>
 			<div id="page-wrapper" class="container">
 				<div class="row">
 					<c:import url="nav_sidebar.jsp"></c:import>
