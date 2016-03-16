@@ -4,7 +4,6 @@
 			<header class="main-box-header clearfix">
 				<h2>Conversation</h2>
 			</header>
-
 			<div class="main-box-body clearfix">
 				<div class="conversation-wrapper">
 					<div class="conversation-content">
