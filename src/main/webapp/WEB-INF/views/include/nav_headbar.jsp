@@ -1,9 +1,10 @@
+<%@ page contentType="text/html;charset=UTF-8" %>
 <header class="navbar" id="header-navbar">
 	<div class="container">
 		<a href="index.jsp" id="logo" class="navbar-brand"> <img
-			src="img/logo.png" alt="" class="normal-logo logo-white" /> <img
-			src="img/logo-black.png" alt="" class="normal-logo logo-black" /> <img
-			src="img/logo-small.png" alt=""
+			src="/kukuMental/asset/img/logo.png" alt="" class="normal-logo logo-white" /> <img
+			src="/kukuMental/asset/img/logo-black.png" alt="" class="normal-logo logo-black" /> <img
+			src="/kukuMental/asset/img/logo-small.png" alt=""
 			class="small-logo hidden-xs hidden-sm hidden" />
 		</a>
 		<div class="clearfix">
@@ -56,7 +57,7 @@
 								</div>
 							</li>
 							<li class="item first-item"><a href="#"> <img
-									src="img/samples/messages-photo-1.png" alt="" /> <span
+									src="/kukuMental/asset/img/samples/messages-photo-1.png" alt="" /> <span
 									class="content"> <span class="content-headline">
 											George Clooney </span> <span class="content-text"> Look, just
 											because I don't be givin' no man a foot massage don't make it
@@ -64,7 +65,7 @@
 								</span> <span class="time"><i class="fa fa-clock-o"></i>13 min.</span>
 							</a></li>
 							<li class="item"><a href="#"> <img
-									src="img/samples/messages-photo-2.png" alt="" /> <span
+									src="/kukuMental/asset/img/samples/messages-photo-2.png" alt="" /> <span
 									class="content"> <span class="content-headline">
 											Emma Watson </span> <span class="content-text"> Look, just
 											because I don't be givin' no man a foot massage don't make it
@@ -72,7 +73,7 @@
 								</span> <span class="time"><i class="fa fa-clock-o"></i>13 min.</span>
 							</a></li>
 							<li class="item"><a href="#"> <img
-									src="img/samples/messages-photo-3.png" alt="" /> <span
+									src="/kukuMental/asset/img/samples/messages-photo-3.png" alt="" /> <span
 									class="content"> <span class="content-headline">
 											Robert Downey Jr. </span> <span class="content-text"> Look,
 											just because I don't be givin' no man a foot massage don't
@@ -86,7 +87,7 @@
 					</a></li>
 					<li class="dropdown profile-dropdown"><a href="#"
 						class="dropdown-toggle" data-toggle="dropdown"> <img
-							src="img/samples/scarlet-159.png" alt="" /> <span
+							src="/kukuMental/asset/img/samples/scarlet-159.png" alt="" /> <span
 							class="hidden-xs">Scarlett Johansson</span> <b class="caret"></b>
 					</a>
 						<ul class="dropdown-menu">

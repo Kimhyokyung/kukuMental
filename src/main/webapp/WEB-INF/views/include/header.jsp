@@ -1,3 +1,4 @@
+<%@ page contentType="text/html;charset=UTF-8" %>
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -6,7 +7,7 @@
 	<title>KukuMental</title>
 	
 	<!-- bootstrap -->
-	<link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="/kukuMental/asset/css/bootstrap/bootstrap.min.css" />
 	
 	<!-- RTL support - for demo only -->
 	<script src="js/demo-rtl.js"></script>
@@ -17,11 +18,11 @@
 	-->
 	
 	<!-- libraries -->
-	<link rel="stylesheet" type="text/css" href="css/libs/font-awesome.css" />
-	<link rel="stylesheet" type="text/css" href="css/libs/nanoscroller.css" />
+	<link rel="stylesheet" type="text/css" href="/kukuMental/asset/css/libs/font-awesome.css" />
+	<link rel="stylesheet" type="text/css" href="/kukuMental/asset/css/libs/nanoscroller.css" />
 
 	<!-- global styles -->
-	<link rel="stylesheet" type="text/css" href="css/compiled/theme_styles.css" />
+	<link rel="stylesheet" type="text/css" href="/kukuMental/asset/css/compiled/theme_styles.css" />
 
 	<!-- this page specific styles -->
 
@@ -29,7 +30,7 @@
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,600,700,300|Titillium+Web:200,300,400' rel='stylesheet' type='text/css'>
 	
 	<!-- Favicon -->
-	<link type="image/x-icon" href="favicon.png" rel="shortcut icon"/>
+	<link type="image/x-icon" href="/kukuMental/asset/libs/favicon.png" rel="shortcut icon"/>
 
 	<!--[if lt IE 9]>
 		<script src="js/html5shiv.js"></script>

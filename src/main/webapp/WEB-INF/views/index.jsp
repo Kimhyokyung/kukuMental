@@ -3,13 +3,13 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/functions" prefix="fn"%>
 <%@ page contentType="text/html;charset=UTF-8"%>
 <html>
-	<c:import url="header.html"></c:import>
+	<c:import url="/WEB-INF/views/include/header.jsp"></c:import>
 	<body>
 		<div id="theme-wrapper">
-			<c:import url="nav_head.jsp"></c:import>
+			<c:import url="/WEB-INF/views/include/nav_headbar.jsp"></c:import>
 			<div id="page-wrapper" class="container">
 				<div class="row">
-					<c:import url="nav_sidebar.jsp"></c:import>
+					<c:import url="/WEB-INF/views/include/nav_sidebar.jsp"></c:import>
 					<div id="content-wrapper">
 					</div>
 				</div>
