@@ -1,4 +1,4 @@
-package com.bit.kukuMental;
+package com.kuku.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
